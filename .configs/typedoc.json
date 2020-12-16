@@ -1,0 +1,4 @@
+{
+    "tsconfig": "./.configs/tsconfig.build.json",
+    "out": "./docs"
+}
