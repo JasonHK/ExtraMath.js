@@ -1,0 +1,10 @@
+{
+    "extends": "@jasonhk/typescript-config",
+    "compilerOptions": {
+        "baseUrl": "../",
+        "rootDir": "../src",
+        "outDir": "../dist",
+        "plugins": []
+    },
+    "include": ["../src/**/*.ts"]
+}
